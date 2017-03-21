@@ -11,6 +11,7 @@ A repo is a repository which is a location where all the files for a particular 
 
 
 Q 4. Where would you find a local repo?
+hidden file .git
 
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
