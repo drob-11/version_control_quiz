@@ -3,7 +3,8 @@ pull request are used to request change to be pushed to the master branch -- the
 
 
 Q 2. Name 2 other examples of Version Control Systems apart from Git.
-
+  Mercurial
+  apache subversion
 
 Q 3. What is a repo and explain the difference between a local and remote one? 
 
